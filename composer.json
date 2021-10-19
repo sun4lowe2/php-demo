@@ -3,7 +3,7 @@
     "description": "php composer create-project demo",
     "type": "project",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "liyang",
