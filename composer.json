@@ -1,0 +1,13 @@
+{
+    "name": "sun4lowe2/php-demo",
+    "description": "php composer create-project demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liyang",
+            "email": "liyang02@julive.com"
+        }
+    ],
+    "require": {}
+}
